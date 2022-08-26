@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DesktopGoose_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeskGoose Down0000" x="2" y="2" width="283" height="173" frameX="0" frameY="-4" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0001" x="2" y="2" width="283" height="173" frameX="0" frameY="-4" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0002" x="287" y="2" width="276" height="188" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0003" x="287" y="2" width="276" height="188" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0004" x="565" y="2" width="278" height="192" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0005" x="565" y="2" width="278" height="192" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0006" x="845" y="2" width="278" height="194" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0007" x="845" y="2" width="278" height="194" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0008" x="1125" y="2" width="278" height="164" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0009" x="1125" y="2" width="278" height="164" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0010" x="1125" y="2" width="278" height="164" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0011" x="1125" y="2" width="278" height="164" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0012" x="1125" y="2" width="278" height="164" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Down0013" x="1125" y="2" width="278" height="164" frameX="-6" frameY="0" frameWidth="284" frameHeight="194"/>
+	<SubTexture name="DeskGoose Idle0000" x="1405" y="2" width="272" height="272" frameX="0" frameY="-12" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0001" x="1405" y="2" width="272" height="272" frameX="0" frameY="-12" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0002" x="1679" y="2" width="269" height="278" frameX="-3" frameY="-7" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0003" x="1679" y="2" width="269" height="278" frameX="-3" frameY="-7" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0004" x="2" y="282" width="264" height="285" frameX="-3" frameY="0" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0005" x="2" y="282" width="264" height="285" frameX="-3" frameY="0" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0006" x="268" y="282" width="255" height="281" frameX="-3" frameY="-3" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0007" x="268" y="282" width="255" height="281" frameX="-3" frameY="-3" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0008" x="525" y="282" width="258" height="281" frameX="-3" frameY="-3" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0009" x="525" y="282" width="258" height="281" frameX="-3" frameY="-3" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0010" x="525" y="282" width="258" height="281" frameX="-3" frameY="-3" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0011" x="525" y="282" width="258" height="281" frameX="-3" frameY="-3" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0012" x="525" y="282" width="258" height="281" frameX="-3" frameY="-3" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Idle0013" x="525" y="282" width="258" height="281" frameX="-3" frameY="-3" frameWidth="272" frameHeight="285"/>
+	<SubTexture name="DeskGoose Left0000" x="785" y="282" width="178" height="338" frameX="-2" frameY="-16" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0001" x="785" y="282" width="178" height="338" frameX="-2" frameY="-16" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0002" x="965" y="282" width="181" height="348" frameX="0" frameY="-6" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0003" x="965" y="282" width="181" height="348" frameX="0" frameY="-6" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0004" x="1148" y="282" width="181" height="352" frameX="0" frameY="-2" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0005" x="1148" y="282" width="181" height="352" frameX="0" frameY="-2" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0006" x="1331" y="282" width="181" height="354"/>
+	<SubTexture name="DeskGoose Left0007" x="1331" y="282" width="181" height="354"/>
+	<SubTexture name="DeskGoose Left0008" x="1514" y="282" width="181" height="283" frameX="0" frameY="-71" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0009" x="1514" y="282" width="181" height="283" frameX="0" frameY="-71" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0010" x="1514" y="282" width="181" height="283" frameX="0" frameY="-71" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0011" x="1514" y="282" width="181" height="283" frameX="0" frameY="-71" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0012" x="1514" y="282" width="181" height="283" frameX="0" frameY="-71" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Left0013" x="1514" y="282" width="181" height="283" frameX="0" frameY="-71" frameWidth="181" frameHeight="354"/>
+	<SubTexture name="DeskGoose Right0000" x="2" y="638" width="438" height="168" frameX="-3" frameY="-4" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0001" x="2" y="638" width="438" height="168" frameX="-3" frameY="-4" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0002" x="442" y="638" width="451" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0003" x="442" y="638" width="451" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0004" x="895" y="638" width="455" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0005" x="895" y="638" width="455" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0006" x="1352" y="638" width="458" height="172"/>
+	<SubTexture name="DeskGoose Right0007" x="1352" y="638" width="458" height="172"/>
+	<SubTexture name="DeskGoose Right0008" x="2" y="812" width="368" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0009" x="2" y="812" width="368" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0010" x="2" y="812" width="368" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0011" x="2" y="812" width="368" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0012" x="2" y="812" width="368" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Right0013" x="2" y="812" width="368" height="172" frameX="0" frameY="0" frameWidth="458" frameHeight="172"/>
+	<SubTexture name="DeskGoose Up0000" x="372" y="812" width="199" height="390" frameX="-3" frameY="-16" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0001" x="372" y="812" width="199" height="390" frameX="-3" frameY="-16" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0002" x="573" y="812" width="210" height="400" frameX="0" frameY="-6" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0003" x="573" y="812" width="210" height="400" frameX="0" frameY="-6" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0004" x="785" y="812" width="213" height="404" frameX="0" frameY="-2" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0005" x="785" y="812" width="213" height="404" frameX="0" frameY="-2" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0006" x="1000" y="812" width="215" height="406"/>
+	<SubTexture name="DeskGoose Up0007" x="1000" y="812" width="215" height="406"/>
+	<SubTexture name="DeskGoose Up0008" x="1217" y="812" width="200" height="322" frameX="0" frameY="-84" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0009" x="1217" y="812" width="200" height="322" frameX="0" frameY="-84" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0010" x="1217" y="812" width="200" height="322" frameX="0" frameY="-84" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0011" x="1217" y="812" width="200" height="322" frameX="0" frameY="-84" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0012" x="1217" y="812" width="200" height="322" frameX="0" frameY="-84" frameWidth="215" frameHeight="406"/>
+	<SubTexture name="DeskGoose Up0013" x="1217" y="812" width="200" height="322" frameX="0" frameY="-84" frameWidth="215" frameHeight="406"/>
+</TextureAtlas>

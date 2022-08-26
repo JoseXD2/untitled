@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goose.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="goose down0000" x="2" y="2" width="381" height="178" frameX="0" frameY="-16" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0001" x="2" y="2" width="381" height="178" frameX="0" frameY="-16" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0002" x="385" y="2" width="388" height="184" frameX="-4" frameY="-10" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0003" x="385" y="2" width="388" height="184" frameX="-4" frameY="-10" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0004" x="775" y="2" width="388" height="191" frameX="-8" frameY="-3" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0005" x="775" y="2" width="388" height="191" frameX="-8" frameY="-3" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0006" x="1165" y="2" width="390" height="194" frameX="-8" frameY="0" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0007" x="1165" y="2" width="390" height="194" frameX="-8" frameY="0" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0008" x="1557" y="2" width="341" height="194" frameX="-8" frameY="0" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0009" x="1557" y="2" width="341" height="194" frameX="-8" frameY="0" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0010" x="1557" y="2" width="341" height="194" frameX="-8" frameY="0" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0011" x="1557" y="2" width="341" height="194" frameX="-8" frameY="0" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0012" x="1557" y="2" width="341" height="194" frameX="-8" frameY="0" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose down0013" x="1557" y="2" width="341" height="194" frameX="-8" frameY="0" frameWidth="398" frameHeight="194"/>
+	<SubTexture name="goose idle0000" x="2" y="198" width="240" height="282" frameX="0" frameY="-8" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0001" x="2" y="198" width="240" height="282" frameX="0" frameY="-8" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0002" x="244" y="198" width="237" height="285" frameX="-1" frameY="-5" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0003" x="244" y="198" width="237" height="285" frameX="-1" frameY="-5" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0004" x="483" y="198" width="226" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0005" x="483" y="198" width="226" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0006" x="711" y="198" width="221" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0007" x="711" y="198" width="221" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0008" x="934" y="198" width="219" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0009" x="934" y="198" width="219" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0010" x="934" y="198" width="219" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0011" x="934" y="198" width="219" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0012" x="1155" y="198" width="218" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0013" x="1155" y="198" width="218" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0014" x="1375" y="198" width="219" height="279" frameX="-2" frameY="-11" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0015" x="1375" y="198" width="219" height="279" frameX="-2" frameY="-11" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0016" x="1596" y="198" width="217" height="282" frameX="-3" frameY="-8" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0017" x="1596" y="198" width="217" height="282" frameX="-3" frameY="-8" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0018" x="1815" y="198" width="217" height="288" frameX="-4" frameY="-2" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0019" x="1815" y="198" width="217" height="288" frameX="-4" frameY="-2" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0020" x="2" y="490" width="218" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0021" x="2" y="490" width="218" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0022" x="934" y="198" width="219" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose idle0023" x="934" y="198" width="219" height="290" frameX="-4" frameY="0" frameWidth="240" frameHeight="290"/>
+	<SubTexture name="goose left0000" x="222" y="490" width="304" height="223" frameX="-17" frameY="-6" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0001" x="222" y="490" width="304" height="223" frameX="-17" frameY="-6" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0002" x="528" y="490" width="315" height="227" frameX="-7" frameY="-2" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0003" x="528" y="490" width="315" height="227" frameX="-7" frameY="-2" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0004" x="845" y="490" width="320" height="228" frameX="-3" frameY="-1" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0005" x="845" y="490" width="320" height="228" frameX="-3" frameY="-1" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0006" x="1167" y="490" width="323" height="229"/>
+	<SubTexture name="goose left0007" x="1167" y="490" width="323" height="229"/>
+	<SubTexture name="goose left0008" x="1492" y="490" width="256" height="229" frameX="-67" frameY="0" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0009" x="1492" y="490" width="256" height="229" frameX="-67" frameY="0" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0010" x="1492" y="490" width="256" height="229" frameX="-67" frameY="0" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0011" x="1492" y="490" width="256" height="229" frameX="-67" frameY="0" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0012" x="1492" y="490" width="256" height="229" frameX="-67" frameY="0" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose left0013" x="1492" y="490" width="256" height="229" frameX="-67" frameY="0" frameWidth="323" frameHeight="229"/>
+	<SubTexture name="goose right0000" x="2" y="782" width="362" height="266" frameX="-9" frameY="0" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0001" x="2" y="782" width="362" height="266" frameX="-9" frameY="0" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0002" x="366" y="782" width="377" height="264" frameX="-4" frameY="-2" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0003" x="366" y="782" width="377" height="264" frameX="-4" frameY="-2" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0004" x="745" y="782" width="385" height="262" frameX="0" frameY="-4" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0005" x="745" y="782" width="385" height="262" frameX="0" frameY="-4" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0006" x="1132" y="782" width="388" height="261" frameX="0" frameY="-5" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0007" x="1132" y="782" width="388" height="261" frameX="0" frameY="-5" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0008" x="1522" y="782" width="318" height="261" frameX="0" frameY="-5" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0009" x="1522" y="782" width="318" height="261" frameX="0" frameY="-5" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0010" x="1522" y="782" width="318" height="261" frameX="0" frameY="-5" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0011" x="1522" y="782" width="318" height="261" frameX="0" frameY="-5" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0012" x="1522" y="782" width="318" height="261" frameX="0" frameY="-5" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose right0013" x="1522" y="782" width="318" height="261" frameX="0" frameY="-5" frameWidth="388" frameHeight="266"/>
+	<SubTexture name="goose steal0000" x="2" y="1050" width="423" height="183" frameX="-15" frameY="-106" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0001" x="2" y="1050" width="423" height="183" frameX="-15" frameY="-106" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0002" x="427" y="1050" width="366" height="188" frameX="-14" frameY="-101" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0003" x="427" y="1050" width="366" height="188" frameX="-14" frameY="-101" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0004" x="795" y="1050" width="375" height="186" frameX="-14" frameY="-103" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0005" x="795" y="1050" width="375" height="186" frameX="-14" frameY="-103" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0006" x="795" y="1050" width="375" height="186" frameX="-14" frameY="-103" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0007" x="795" y="1050" width="375" height="186" frameX="-14" frameY="-103" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0008" x="795" y="1050" width="375" height="186" frameX="-14" frameY="-103" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0009" x="795" y="1050" width="375" height="186" frameX="-14" frameY="-103" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0010" x="1172" y="1050" width="388" height="182" frameX="-14" frameY="-107" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0011" x="1172" y="1050" width="388" height="182" frameX="-14" frameY="-107" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0012" x="1562" y="1050" width="339" height="202" frameX="-14" frameY="-87" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0013" x="2" y="1254" width="275" height="262" frameX="-14" frameY="-27" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0014" x="2" y="1254" width="275" height="262" frameX="-14" frameY="-27" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0015" x="279" y="1254" width="256" height="286" frameX="-5" frameY="-8" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0016" x="537" y="1254" width="222" height="291" frameX="0" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0017" x="537" y="1254" width="222" height="291" frameX="0" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose steal0018" x="537" y="1254" width="222" height="291" frameX="0" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="goose up0000" x="761" y="1254" width="195" height="341" frameX="-16" frameY="-15" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0001" x="761" y="1254" width="195" height="341" frameX="-16" frameY="-15" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0002" x="958" y="1254" width="207" height="350" frameX="-7" frameY="-6" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0003" x="958" y="1254" width="207" height="350" frameX="-7" frameY="-6" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0004" x="1167" y="1254" width="213" height="354" frameX="-3" frameY="-2" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0005" x="1167" y="1254" width="213" height="354" frameX="-3" frameY="-2" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0006" x="1382" y="1254" width="216" height="356"/>
+	<SubTexture name="goose up0007" x="1382" y="1254" width="216" height="356"/>
+	<SubTexture name="goose up0008" x="1600" y="1254" width="190" height="292" frameX="-26" frameY="-64" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0009" x="1600" y="1254" width="190" height="292" frameX="-26" frameY="-64" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0010" x="1600" y="1254" width="190" height="292" frameX="-26" frameY="-64" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0011" x="1600" y="1254" width="190" height="292" frameX="-26" frameY="-64" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0012" x="1600" y="1254" width="190" height="292" frameX="-26" frameY="-64" frameWidth="216" frameHeight="356"/>
+	<SubTexture name="goose up0013" x="1600" y="1254" width="190" height="292" frameX="-26" frameY="-64" frameWidth="216" frameHeight="356"/>
+</TextureAtlas>

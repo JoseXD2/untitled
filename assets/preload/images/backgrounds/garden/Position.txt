@@ -1,0 +1,28 @@
+cattail 
+  x= -115  y= 655 
+
+bench 
+  x= 235  y= 300
+
+groundskeeper
+ x= 1400  y= 20
+
+wall
+ x= -350  y= 105
+
+ground
+ x= -325  y= 215
+
+town1
+ x= -205  y= -250
+
+town2
+ x= 270  y= -270
+
+mounts
+ x= -310  y= -85
+
+sky
+ x= 0  y= 0
+
+

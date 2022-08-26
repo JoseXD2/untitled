@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-193,
+				-362
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DeskGoose Left"
+		},
+		{
+			"offsets": [
+				-165,
+				-551
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DeskGoose Down"
+		},
+		{
+			"offsets": [
+				-173,
+				-308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DeskGoose Up"
+		},
+		{
+			"offsets": [
+				-211,
+				-543
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DeskGoose Right"
+		},
+		{
+			"offsets": [
+				-180,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DeskGoose Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DesktopGoose_Assets",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "desktop goose",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		280,
+		430
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

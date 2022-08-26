@@ -1,0 +1,5 @@
+--function onUpdate()
+--	if keyJustPressed('up') and keyJustPressed('down') and keyJustPressed('right') and keyJustPressed('right') then
+--            endSong()
+--        end
+--end

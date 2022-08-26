@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Stunned.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stunned0000" x="2" y="2" width="374" height="412" frameX="0" frameY="-1" frameWidth="375" frameHeight="413"/>
+	<SubTexture name="Stunned0001" x="378" y="2" width="374" height="412" frameX="-1" frameY="-1" frameWidth="375" frameHeight="413"/>
+	<SubTexture name="Stunned0002" x="2" y="416" width="373" height="413" frameX="-1" frameY="0" frameWidth="375" frameHeight="413"/>
+	<SubTexture name="Stunned0003" x="377" y="416" width="375" height="413"/>
+</TextureAtlas>

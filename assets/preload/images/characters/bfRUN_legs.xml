@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfRUN_legs.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFLegs_Run0000" x="677" y="2" width="314" height="273" frameX="-4" frameY="0" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0001" x="677" y="2" width="314" height="273" frameX="-4" frameY="0" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0002" x="2" y="278" width="309" height="208" frameX="-27" frameY="-63" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0003" x="2" y="278" width="309" height="208" frameX="-27" frameY="-63" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0004" x="651" y="492" width="312" height="193" frameX="-23" frameY="-79" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0005" x="651" y="492" width="312" height="193" frameX="-23" frameY="-79" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0006" x="2" y="2" width="335" height="274" frameX="0" frameY="0" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0007" x="2" y="2" width="335" height="274" frameX="0" frameY="0" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0008" x="339" y="2" width="336" height="271" frameX="-1" frameY="-1" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0009" x="339" y="2" width="336" height="271" frameX="-1" frameY="-1" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0010" x="651" y="277" width="309" height="213" frameX="-26" frameY="-59" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0011" x="651" y="277" width="309" height="213" frameX="-26" frameY="-59" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0012" x="2" y="488" width="300" height="203" frameX="-33" frameY="-72" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0013" x="2" y="488" width="300" height="203" frameX="-33" frameY="-72" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0014" x="339" y="275" width="310" height="275" frameX="-5" frameY="0" frameWidth="337" frameHeight="275"/>
+	<SubTexture name="BFLegs_Run0015" x="339" y="275" width="310" height="275" frameX="-5" frameY="0" frameWidth="337" frameHeight="275"/>
+</TextureAtlas>

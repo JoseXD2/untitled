@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "steal",
+			"loop": false,
+			"name": "goose steal"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "goose idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goose",
+	"position": [
+		210,
+		460
+	],
+	"healthicon": "goose",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		138,
+		49
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

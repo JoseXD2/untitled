@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="birus goose.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="birus drag0000" x="2" y="2" width="204" height="96" frameX="0" frameY="-1" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0001" x="2" y="2" width="204" height="96" frameX="0" frameY="-1" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0002" x="2" y="2" width="204" height="96" frameX="0" frameY="-1" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0003" x="208" y="2" width="204" height="95" frameX="0" frameY="-1" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0004" x="208" y="2" width="204" height="95" frameX="0" frameY="-1" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0005" x="414" y="2" width="205" height="97" frameX="0" frameY="0" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0006" x="414" y="2" width="205" height="97" frameX="0" frameY="0" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0007" x="414" y="2" width="205" height="97" frameX="0" frameY="0" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0008" x="621" y="2" width="213" height="96" frameX="0" frameY="-1" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus drag0009" x="621" y="2" width="213" height="96" frameX="0" frameY="-1" frameWidth="213" frameHeight="97"/>
+	<SubTexture name="birus letgo0000" x="836" y="2" width="175" height="147" frameX="0" frameY="-27" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0001" x="836" y="2" width="175" height="147" frameX="0" frameY="-27" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0002" x="2" y="151" width="125" height="172" frameX="-57" frameY="0" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0003" x="2" y="151" width="125" height="172" frameX="-57" frameY="0" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0004" x="129" y="151" width="145" height="164" frameX="-39" frameY="-8" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0005" x="129" y="151" width="145" height="164" frameX="-39" frameY="-8" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0006" x="276" y="151" width="145" height="161" frameX="-28" frameY="-11" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0007" x="276" y="151" width="145" height="161" frameX="-28" frameY="-11" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0008" x="276" y="151" width="145" height="161" frameX="-28" frameY="-11" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0009" x="276" y="151" width="145" height="161" frameX="-28" frameY="-11" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0010" x="276" y="151" width="145" height="161" frameX="-28" frameY="-11" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0011" x="276" y="151" width="145" height="161" frameX="-28" frameY="-11" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0012" x="276" y="151" width="145" height="161" frameX="-28" frameY="-11" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus letgo0013" x="276" y="151" width="145" height="161" frameX="-28" frameY="-11" frameWidth="184" frameHeight="174"/>
+	<SubTexture name="birus walk0000" x="423" y="151" width="144" height="159" frameX="-4" frameY="0" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0001" x="423" y="151" width="144" height="159" frameX="-4" frameY="0" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0002" x="423" y="151" width="144" height="159" frameX="-4" frameY="0" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0003" x="569" y="151" width="149" height="155" frameX="0" frameY="-3" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0004" x="569" y="151" width="149" height="155" frameX="0" frameY="-3" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0005" x="720" y="151" width="147" height="156" frameX="0" frameY="-3" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0006" x="720" y="151" width="147" height="156" frameX="0" frameY="-3" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0007" x="720" y="151" width="147" height="156" frameX="0" frameY="-3" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0008" x="869" y="151" width="148" height="156" frameX="-1" frameY="-3" frameWidth="149" frameHeight="159"/>
+	<SubTexture name="birus walk0009" x="869" y="151" width="148" height="156" frameX="-1" frameY="-3" frameWidth="149" frameHeight="159"/>
+</TextureAtlas>

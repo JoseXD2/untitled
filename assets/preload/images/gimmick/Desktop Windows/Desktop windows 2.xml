@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Desktop windows 2.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="2 appear0000" x="2" y="2" width="624" height="384"/>
+	<SubTexture name="2 appear0001" x="2" y="2" width="624" height="384"/>
+	<SubTexture name="2 appear0002" x="628" y="2" width="594" height="365" frameX="-15" frameY="-9" frameWidth="624" frameHeight="384"/>
+	<SubTexture name="2 appear0003" x="628" y="2" width="594" height="365" frameX="-15" frameY="-9" frameWidth="624" frameHeight="384"/>
+	<SubTexture name="2 appear0004" x="1224" y="2" width="604" height="372" frameX="-10" frameY="-6" frameWidth="624" frameHeight="384"/>
+	<SubTexture name="2 appear0005" x="1224" y="2" width="604" height="372" frameX="-10" frameY="-6" frameWidth="624" frameHeight="384"/>
+	<SubTexture name="2 close0000" x="2" y="388" width="619" height="381"/>
+	<SubTexture name="2 close0001" x="2" y="388" width="619" height="381"/>
+	<SubTexture name="2 close0002" x="623" y="388" width="77" height="47" frameX="-271" frameY="-167" frameWidth="619" frameHeight="381"/>
+	<SubTexture name="2 close0003" x="623" y="388" width="77" height="47" frameX="-271" frameY="-167" frameWidth="619" frameHeight="381"/>
+	<SubTexture name="2 close0004" x="702" y="388" width="0" height="0" frameX="-8" frameY="-5" frameWidth="619" frameHeight="381"/>
+	<SubTexture name="2 close0005" x="702" y="388" width="0" height="0" frameX="-8" frameY="-5" frameWidth="619" frameHeight="381"/>
+</TextureAtlas>

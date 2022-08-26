@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Radio.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Radio0000" x="2" y="2" width="198" height="189" frameX="0" frameY="-2" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0001" x="2" y="2" width="198" height="189" frameX="0" frameY="-2" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0002" x="202" y="2" width="191" height="195" frameX="-6" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0003" x="202" y="2" width="191" height="195" frameX="-6" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0004" x="395" y="2" width="176" height="197" frameX="-21" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0005" x="395" y="2" width="176" height="197" frameX="-21" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0006" x="573" y="2" width="171" height="191" frameX="-26" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0007" x="573" y="2" width="171" height="191" frameX="-26" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0008" x="746" y="2" width="197" height="191" frameX="0" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0009" x="746" y="2" width="197" height="191" frameX="0" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0010" x="2" y="201" width="191" height="195" frameX="-6" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0011" x="2" y="201" width="191" height="195" frameX="-6" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0012" x="395" y="2" width="176" height="197" frameX="-21" frameY="0" frameWidth="198" frameHeight="197"/>
+	<SubTexture name="Radio0013" x="395" y="2" width="176" height="197" frameX="-21" frameY="0" frameWidth="198" frameHeight="197"/>
+</TextureAtlas>

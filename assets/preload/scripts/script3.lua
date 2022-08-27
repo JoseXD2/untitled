@@ -1,36 +1,42 @@
-stopped = true
+-- Creator: MasterDirector99
+-- Link: https://github.com/ShadowMario/FNF-PsychEngine/discussions/2901
+currentDifficulty = 'its still fucked';
+
 function onCreate()
-	makeAnimatedLuaSprite('bitch', 'gameover goose', 600, 308)
-	addAnimationByPrefix('bitch', 'dance', 'dance', 12, true)
-	addAnimationByIndices('bitch', 'stop', 'dance', 1, 24)
-	setObjectCamera('bitch', 'other')
-	setProperty('bitch.alpha', 0)
-	
-	setPropertyFromClass('GameOverSubstate', 'characterName', 'ded'); --Character json file for the death animation
-	setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'uh'); --put in mods/music/
-	setPropertyFromClass('GameOverSubstate', 'endSoundName', 'honk'); --put in mods/music/
+makeLuaSprite('interruptor1', '2PortPorAsbelSen', 0, 0);
+scaleObject('interruptor1', 1, 1);
+setObjectCamera('interruptor1', 'other');
+addLuaSprite('interruptor1', false);
 
-end
-function onUpdate(elapsed)
-	if inGameOver then
-		if stopped == false then
-			objectPlayAnimation('bitch', 'dance', true)
-		end
-		addLuaSprite('bitch', true)
-		doTweenAlpha('alphabitch', 'bitch', 1, 20, 'circout')
-	end
+makeLuaText('songText', songName .. ' - ' .. currentDifficulty .. " | Psych Engine v0.5.2h", 0, 2, 701);
+addLuaText('songText', true)
+setTextAlignment('songText', 'left');
+setTextSize('songText', 15);
+setTextBorder('songText', 1, '000000');
+addLuaText('songText');
 end
 
-function onGameOverConfirm(reset)
-	stopped = true
-	objectPlayAnimation('bitch', 'stop', true)
-
-	setProperty('bitch.scale.x', 0.75)
-	setProperty('bitch.scale.y', 1.25)
-	doTweenX('xbitch2', 'bitch.scale', 1, 0.25, 'circOut')
-	doTweenY('ybitch2', 'bitch.scale', 1, 0.25, 'circOut')
-
-	setProperty('bitch.alpha', 1)
-	doTweenAlpha('alphabitch2', 'bitch', 0, 3, 'linear')
+function onUpdatePost(elapsed)
+if getProperty('interruptor1.alpha') == 0.1 then
+setTextFont('songText', "cumhead.otf"); 
+end
 end
 
+function onCreatePost()
+    setProperty('timeBar.y', getProperty('timeBar.y') - 10);
+    setProperty('timeTxt.y', getProperty('timeTxt.y') - 10);
+    currentDifficulty = getProperty('storyDifficultyText');
+    setTextString('songText', songName .. ' - ' .. currentDifficulty .. " | Psych Engine v0.5.2h");
+
+    if hideHud then
+    removeLuaText('songText', true)
+end
+end
+
+xdd = true
+
+function goodNoteHit(id, direction, noteType, isSustainNote)
+if xdd == true then 
+    setProperty('health', getProperty('health')- 0.023);
+    end
+end

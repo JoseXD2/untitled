@@ -2,88 +2,143 @@
 	"animations": [
 		{
 			"offsets": [
-				125,
-				-62
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "goose left"
-		},
-		{
-			"offsets": [
-				13,
-				-97
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "goose down"
-		},
-		{
-			"offsets": [
-				20,
-				65
+				142,
+				220
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "goose up"
+			"name": "GANSO Up"
 		},
 		{
 			"offsets": [
-				-13,
-				-24
+				280,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GANSO Left"
+		},
+		{
+			"offsets": [
+				117,
+				84
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "goose right"
+			"name": "GANSO Right"
 		},
 		{
 			"offsets": [
-				-4,
-				0
+				153,
+				85
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "steal",
-			"indices": [],
-			"name": "goose steal"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
 			"fps": 24,
 			"anim": "idle",
+			"indices": [],
+			"name": "GANSO Idle"
+		},
+		{
+			"offsets": [
+				144,
+				221
+			],
 			"loop": false,
-			"name": "goose idle"
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Gose Up Follador"
+		},
+		{
+			"offsets": [
+				262,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Gose Left Follador"
+		},
+		{
+			"offsets": [
+				150,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GANSO Down"
+		},
+		{
+			"offsets": [
+				150,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Gose Down Follador"
+		},
+		{
+			"offsets": [
+				125,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Gose Right Follador"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				86
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Gose Idle Follador",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				214
+			],
+			"anim": "whentejalaselganso",
+			"fps": 19,
+			"name": "whentejalaselganso",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/goose",
+	"image": "characters/GANSO",
 	"position": [
-		210,
-		460
+		150,
+		290
 	],
-	"healthicon": "goose",
+	"healthicon": "GANSO",
 	"flip_x": false,
 	"healthbar_colors": [
-		253,
-		138,
-		49
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		0,
-		30
+		-180,
+		-70
 	],
-	"sing_duration": 6.1,
-	"scale": 1
+	"sing_duration": 4,
+	"scale": 0.800000000000005
 }
